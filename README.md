@@ -4,14 +4,16 @@ Sei un operaio con il martello e la città di notte è piena di palazzi da butta
 
 ![Menu](screenshots/menu.png)
 
-## ⬇️ Scarica (versione di prova 0.14.0)
+## ⬇️ Scarica (versione di prova 0.16.0)
 
 | Sistema | Download |
 |---|---|
-| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.14.0_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.14.0/DemolitionRush_v0.14.0_windows.zip) (52 MB) |
-| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.14.0_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.14.0/DemolitionRush_v0.14.0_mac.zip) (75 MB) |
+| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.16.0_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.16.0/DemolitionRush_v0.16.0_windows.zip) (52 MB) |
+| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.16.0_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.16.0/DemolitionRush_v0.16.0_mac.zip) (75 MB) |
 
-Tutte le versioni sono nella pagina [Releases](https://github.com/ItsMisus/demolition-rush/releases).
+Tutte le versioni, con l'elenco delle novità, sono nella pagina [Releases](https://github.com/ItsMisus/demolition-rush/releases).
+
+**Novità della 0.16:** i contratti di Gino (missioni con premi, anche picconi e costumi rari), la combo demolizione, i costumi da mettere sopra l'operaio e tante animazioni nuove. I salvataggi della versione precedente vengono convertiti da soli.
 
 ### Come si avvia
 
@@ -42,6 +44,7 @@ Dentro ogni zip c'è un file `LEGGIMI.txt` con tutti i dettagli.
 ![Un nuovo grattacielo](screenshots/run.png)
 ![Scelta dei potenziamenti](screenshots/carte.png)
 ![Il cantiere base e l'albero delle abilità](screenshots/cantiere.png)
+![I contratti di Gino](screenshots/contratti.png)
 
 ## Dimmi cosa ne pensi
 
