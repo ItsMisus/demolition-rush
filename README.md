@@ -4,16 +4,16 @@ Sei un operaio con il martello e la città di notte è piena di palazzi da butta
 
 ![Menu](screenshots/menu.png)
 
-## ⬇️ Scarica (versione di prova 0.17.0)
+## ⬇️ Scarica (versione di prova 0.17.1)
 
 | Sistema | Download |
 |---|---|
-| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.17.0_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.17.0/DemolitionRush_v0.17.0_windows.zip) (54 MB) |
-| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.17.0_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.17.0/DemolitionRush_v0.17.0_mac.zip) (77 MB) |
+| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.17.1_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.17.1/DemolitionRush_v0.17.1_windows.zip) (54 MB) |
+| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.17.1_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.17.1/DemolitionRush_v0.17.1_mac.zip) (77 MB) |
 
 Tutte le versioni, con l'elenco delle novità, sono nella pagina [Releases](https://github.com/ItsMisus/demolition-rush/releases).
 
-**Novità della 0.17:** si gioca anche col gamepad, la mappa della città con gli isolati da conquistare e il boss di ogni quartiere, le sfide di Gino, i messaggi della run in una colonna a destra e il cantiere base diviso in 5 sezioni. I salvataggi della versione precedente vanno bene.
+**Novità della 0.17:** ogni quartiere ha 7 palazzi suoi (Conservificio e Capitaneria al Porto, Fonderia e Altoforno nella Zona industriale, Grandi magazzini e Grattacielo Art déco in Centro); si gioca anche col gamepad, la mappa della città con gli isolati da conquistare e il boss di ogni quartiere, le sfide di Gino, i messaggi della run in una colonna a destra e il cantiere base diviso in 5 sezioni. I salvataggi della versione precedente vanno bene.
 
 ### Come si avvia
 
