@@ -1,6 +1,6 @@
 # Demolition Rush
 
-Sei un operaio con il martello e la città di notte è piena di palazzi da buttare giù. Hai pochi secondi per ogni giornata di lavoro: demolisci più palazzi che puoi, raccogli i mattoni che volano e scegli i potenziamenti quando sali di livello. A fine giornata torni al cantiere base e spendi quello che hai guadagnato per diventare più forte.
+Sei un operaio con il martello e la città è piena di palazzi da buttare giù. Hai pochi secondi per ogni giornata di lavoro: demolisci più palazzi che puoi, raccogli i mattoni che volano e scegli i potenziamenti quando sali di livello. A fine giornata torni al cantiere base e spendi quello che hai guadagnato per diventare più forte.
 
 ![Menu](screenshots/menu.png)
 
@@ -31,19 +31,24 @@ Dentro ogni zip c'è un file `LEGGIMI.txt` con tutti i dettagli.
 
 ## Comandi
 
-| Azione | Tasti |
-|---|---|
-| Muoversi | A / D oppure ← / → |
-| Colpire | automatico vicino al palazzo |
-| Scegliere una carta | clic, 1–4, oppure frecce + Invio |
-| Scatto | Shift o Spazio (dopo averlo comprato) |
-| Pausa | Esc o P |
+| Azione | Tastiera | Gamepad |
+|---|---|---|
+| Muoversi | A / D oppure ← / → | levetta sinistra o croce |
+| Colpire | automatico vicino al palazzo | automatico |
+| Scegliere una carta | clic, 1–4, oppure frecce + Invio | croce + A (Y rilancia) |
+| Scatto | Shift o Spazio (dopo averlo comprato) | B, X o RB |
+| Pausa | Esc o P | Start |
+| Cantiere base | Invio = nuova run | LB / RB cambiano sezione, Start = nuova run |
 
 ## Screenshot
 
-![Un nuovo grattacielo](screenshots/run.png)
+![Il Porto al tramonto](screenshots/run.png)
+![La Zona industriale di notte](screenshots/industria.png)
+![Il Centro di giorno](screenshots/centro.png)
+![Una sfida di Gino](screenshots/sfida.png)
 ![Scelta dei potenziamenti](screenshots/carte.png)
 ![Il cantiere base e l'albero delle abilità](screenshots/cantiere.png)
+![La mappa della città](screenshots/citta.png)
 ![I contratti di Gino](screenshots/contratti.png)
 
 ## Dimmi cosa ne pensi
