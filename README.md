@@ -2,7 +2,7 @@
 
 Sei un operaio con il martello e la città è piena di palazzi da buttare giù. Hai pochi secondi per ogni giornata di lavoro: demolisci più palazzi che puoi, raccogli i mattoni che volano e scegli i potenziamenti quando sali di livello. A fine giornata torni al cantiere base e spendi quello che hai guadagnato per diventare più forte.
 
-![Menu](screenshots/v0.17/menu.png)
+![Demolition Rush](screenshots/v0.17.1/menu.png)
 
 ## ⬇️ Scarica (versione di prova 0.17.1)
 
@@ -42,14 +42,15 @@ Dentro ogni zip c'è un file `LEGGIMI.txt` con tutti i dettagli.
 
 ## Screenshot
 
-![Il Porto al tramonto](screenshots/v0.17/run.png)
-![La Zona industriale di notte](screenshots/v0.17/industria.png)
-![Il Centro di giorno](screenshots/v0.17/centro.png)
-![Una sfida di Gino](screenshots/v0.17/sfida.png)
-![Scelta dei potenziamenti](screenshots/v0.17/carte.png)
-![Il cantiere base e l'albero delle abilità](screenshots/v0.17/cantiere.png)
-![La mappa della città](screenshots/v0.17/citta.png)
-![I contratti di Gino](screenshots/v0.17/contratti.png)
+![La Periferia di notte, col temporale](screenshots/v0.17.1/periferia.png)
+![Il Porto al tramonto, con l'arcobaleno](screenshots/v0.17.1/porto.png)
+![La Zona industriale durante l'invasione aliena](screenshots/v0.17.1/industria.png)
+![Il Centro di giorno](screenshots/v0.17.1/centro.png)
+![Una sfida di Gino](screenshots/v0.17.1/sfida.png)
+![Scelta dei potenziamenti](screenshots/v0.17.1/carte.png)
+![Il cantiere base e l'albero delle abilità](screenshots/v0.17.1/cantiere.png)
+![La mappa della città](screenshots/v0.17.1/citta.png)
+![I contratti di Gino](screenshots/v0.17.1/contratti.png)
 
 ## Dimmi cosa ne pensi
 
