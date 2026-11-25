@@ -2,16 +2,18 @@
 
 Sei un operaio con il martello e la città è piena di palazzi da buttare giù. Hai pochi secondi per ogni giornata di lavoro: demolisci più palazzi che puoi, raccogli i mattoni che volano e scegli i potenziamenti quando sali di livello. A fine giornata torni al cantiere base e spendi quello che hai guadagnato per diventare più forte.
 
-![Demolition Rush](screenshots/v0.17.1/menu.png)
+![Demolition Rush](screenshots/v0.19.0/menu.png)
 
-## ⬇️ Scarica (versione di prova 0.18.0)
+## ⬇️ Scarica (versione di prova 0.19.0)
 
 | Sistema | Download |
 |---|---|
-| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.18.0_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.18.0/DemolitionRush_v0.18.0_windows.zip) (54 MB) |
-| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.18.0_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.18.0/DemolitionRush_v0.18.0_mac.zip) (77 MB) |
+| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.19.0_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.19.0/DemolitionRush_v0.19.0_windows.zip) (54 MB) |
+| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.19.0_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.19.0/DemolitionRush_v0.19.0_mac.zip) (77 MB) |
 
 Tutte le versioni, con l'elenco delle novità, sono nella pagina [Releases](https://github.com/ItsMisus/demolition-rush/releases).
+
+**Novità della 0.19:** menu nuovo con 4 salvataggi da scegliere (il tuo salvataggio di prima diventa il numero 1); solo picconi, e quelli preziosi sbrilluccicano; nuovi picconi speciali e nuovi costumi dai contratti di Gino. Da questa versione il gioco si aggiorna da solo dal menu.
 
 **Novità della 0.18:** la Periferia di notte ha un aspetto nuovo (sfondo a strati, buio con le luci di lampioni e fari, nebbia); al primo avvio scegli la luminosità della notte guardando la scena dal vivo; tolto il segnale rosso dove cade la bombola.
 
@@ -44,6 +46,7 @@ Dentro ogni zip c'è un file `LEGGIMI.txt` con tutti i dettagli.
 
 ## Screenshot
 
+![Scegli il salvataggio](screenshots/v0.19.0/salvataggi.png)
 ![Il primo avvio: scegli la luminosità della notte](screenshots/v0.18.0/primo_avvio.png)
 ![La Periferia di notte, col temporale](screenshots/v0.17.1/periferia.png)
 ![Il Porto al tramonto, con l'arcobaleno](screenshots/v0.17.1/porto.png)
