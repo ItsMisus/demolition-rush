@@ -62,7 +62,7 @@ Dentro ogni zip c'è un file `LEGGIMI.txt` con tutti i dettagli.
 
 **Il gioco si chiude quando seleziono il salvataggio.** Può succedere se il salvataggio è fermo nel distretto Porto (nel log compare `Invalid polygon data, triangulation failed`). Soluzione provvisoria:
 1. Chiudi il gioco.
-2. Apri `%APPDATA%\Godotpp_userdata\Demolition Rush\save_1.json` (o il numero del tuo slot) con il Blocco note, dopo averne fatto una copia.
+2. Apri `%APPDATA%\Godot\app_userdata\Demolition Rush\save_1.json` (o il numero del tuo slot) con il Blocco note, dopo averne fatto una copia.
 3. Cambia `"district": "port"` in `"district": "suburbs"` e salva.
 4. Riavvia il gioco: il salvataggio si carica e i progressi restano.
 
