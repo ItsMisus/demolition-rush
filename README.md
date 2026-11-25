@@ -4,14 +4,16 @@ Sei un operaio con il martello e la città è piena di palazzi da buttare giù. 
 
 ![Demolition Rush](screenshots/v0.17.1/menu.png)
 
-## ⬇️ Scarica (versione di prova 0.17.1)
+## ⬇️ Scarica (versione di prova 0.18.0)
 
 | Sistema | Download |
 |---|---|
-| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.17.1_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.17.1/DemolitionRush_v0.17.1_windows.zip) (54 MB) |
-| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.17.1_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.17.1/DemolitionRush_v0.17.1_mac.zip) (77 MB) |
+| **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.18.0_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.18.0/DemolitionRush_v0.18.0_windows.zip) (54 MB) |
+| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.18.0_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.18.0/DemolitionRush_v0.18.0_mac.zip) (77 MB) |
 
 Tutte le versioni, con l'elenco delle novità, sono nella pagina [Releases](https://github.com/ItsMisus/demolition-rush/releases).
+
+**Novità della 0.18:** la Periferia di notte ha un aspetto nuovo (sfondo a strati, buio con le luci di lampioni e fari, nebbia); al primo avvio scegli la luminosità della notte guardando la scena dal vivo; tolto il segnale rosso dove cade la bombola.
 
 **Novità della 0.17:** ogni quartiere ha 7 palazzi suoi (Conservificio e Capitaneria al Porto, Fonderia e Altoforno nella Zona industriale, Grandi magazzini e Grattacielo Art déco in Centro); si gioca anche col gamepad, la mappa della città con gli isolati da conquistare e il boss di ogni quartiere, le sfide di Gino, i messaggi della run in una colonna a destra e il cantiere base diviso in 5 sezioni. I salvataggi della versione precedente vanno bene.
 
@@ -42,6 +44,7 @@ Dentro ogni zip c'è un file `LEGGIMI.txt` con tutti i dettagli.
 
 ## Screenshot
 
+![Il primo avvio: scegli la luminosità della notte](screenshots/v0.18.0/primo_avvio.png)
 ![La Periferia di notte, col temporale](screenshots/v0.17.1/periferia.png)
 ![Il Porto al tramonto, con l'arcobaleno](screenshots/v0.17.1/porto.png)
 ![La Zona industriale durante l'invasione aliena](screenshots/v0.17.1/industria.png)
