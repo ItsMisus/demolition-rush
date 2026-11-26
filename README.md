@@ -9,13 +9,13 @@ Sei un operaio con il martello e la città è piena di palazzi da buttare giù. 
 | Sistema | Download |
 |---|---|
 | **Windows** (10 / 11, 64 bit) | [DemolitionRush_v0.19.2_windows.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.19.2/DemolitionRush_v0.19.2_windows.zip) (61 MB) |
-| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.19.0_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.19.0/DemolitionRush_v0.19.0_mac.zip) (77 MB, versione 0.19.0) |
+| **Mac** (chip Apple e Intel) | [DemolitionRush_v0.19.2_mac.zip](https://github.com/ItsMisus/demolition-rush/releases/download/v0.19.2/DemolitionRush_v0.19.2_mac.zip) (84 MB) |
 
 Tutte le versioni, con l'elenco delle novità, sono nella pagina [Releases](https://github.com/ItsMisus/demolition-rush/releases).
 
-**Novità della 0.19.2 per Windows** — Il negozio degli attrezzi ha quattro picconi per riga e un confronto con l’attrezzo equipaggiato. Aggiornate le icone pixel art e i nodi dell’albero delle abilità.
+**Novità della 0.19.2** — Il negozio degli attrezzi ha quattro picconi per riga e un confronto con l’attrezzo equipaggiato. Aggiornate le icone pixel art e i nodi dell’albero delle abilità.
 
-**Novità della 0.19.1:** corretto un crash che chiudeva il gioco appena si selezionava un salvataggio già iniziato (solo Windows per ora). I salvataggi non sono toccati.
+**Novità della 0.19.1:** corretto un crash che chiudeva il gioco appena si selezionava un salvataggio già iniziato. I salvataggi non sono toccati.
 
 **Novità della 0.19:** menu nuovo con 4 salvataggi da scegliere (il tuo salvataggio di prima diventa il numero 1); solo picconi, e quelli preziosi sbrilluccicano; nuovi picconi speciali e nuovi costumi dai contratti di Gino. Da questa versione il gioco si aggiorna da solo dal menu.
 
